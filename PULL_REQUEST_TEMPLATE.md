@@ -1,4 +1,4 @@
-<!--- Provide a general summary of your changes in the Title above -->
+<!--- You SHOULD use Conventional Commits [https://www.conventionalcommits.org/en/v1.0.0/] for the title of the PR -->
 
 ## Description
 <!--- Describe your changes in detail -->
